@@ -1,5 +1,5 @@
 # rzbotv1
-BOT WHATSAPP HP RIZKY SHOBIRIN
+BOT WHATSAPP HP (RIZKY SHOBIRIN)
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
